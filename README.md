@@ -1,2 +1,2 @@
-# nft_marketplace
+# NFT Marketplace
  NFT Marketplace Flutter UI
